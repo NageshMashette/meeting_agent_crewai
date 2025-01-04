@@ -14,7 +14,8 @@ This Streamlit application leverages multiple AI agents to create comprehensive 
 - industry_insights_generator
 - strategy_formulator 
 - executive_briefing_creator
-- 
+
+
 ### How to get Started?
 
 1. Clone the GitHub repository
