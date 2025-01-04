@@ -4,10 +4,17 @@ This Streamlit application leverages multiple AI agents to create comprehensive 
 ### Features
 
 - Multi-agent AI system for thorough meeting preparation
-- Utilizes OpenAI's GPT-4 and Anthropic's Claude models
+- Utilizes OpenAI's GPT-4 models.
 - Web search capability using Serper API
 - Generates detailed context analysis, industry insights, meeting strategies, and executive briefings
 
+
+### Agents used
+- context_analyzer
+- industry_insights_generator
+- strategy_formulator 
+- executive_briefing_creator
+- 
 ### How to get Started?
 
 1. Clone the GitHub repository
